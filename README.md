@@ -49,15 +49,6 @@ flowchart TD
 
 ---
 
-## Roadmap
-
-* [x] **Phase 0** – Öffentliches Repo & README 🎉
-* [ ] **Phase 1** – Datenfundament (laufend)
-* [ ] **Phase 2** – UI‑Feinschliff & Produktgrid
-* [ ] **Phase 3** – Monetarisierung & Nutzer‑Tests
-
----
-
 ## Datenschutz & Compliance
 
 Wir nutzen **ausschließlich** offiziell bereitgestellte CSV‑Feeds / APIs.
